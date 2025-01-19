@@ -1,0 +1,1 @@
+there are all whatever you need for set up oh my zsh, but you have to write theme powerlevel10k by yourself, and you choose theme for your zsh
